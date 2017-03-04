@@ -4,8 +4,8 @@
 // @category       Portal Info
 // @version        0.1.0.20170303
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://github.com/ResistanceOfColorado/iitc/blob/master/barcodes.user.js
-// @downloadURL    https://github.com/ResistanceOfColorado/iitc/blob/master/barcodes.user.js
+// @updateURL      https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
+// @downloadURL    https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
 // @description    Replace player names with more easily remembered names
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
