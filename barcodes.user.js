@@ -1,8 +1,8 @@
 // ==UserScript==
 // @id             iitc-plugin-barcodes@RoC
-// @name           IITC plugin: Replace barcode player names with nicknames on click
+// @name           Replace barcode player names with friendly names on clickk
 // @category       Portal Info
-// @version        0.1.0.20170304.1238
+// @version        0.1.0.20170304.1251
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
 // @downloadURL    https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
