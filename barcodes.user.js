@@ -1,6 +1,6 @@
 // ==UserScript==
 // @id             iitc-plugin-barcodes@RoC
-// @name           Replace barcode player names with friendly names on clickk
+// @name           IITC plugin: Replace barcode player names with friendly names on click
 // @category       Portal Info
 // @version        0.1.0.20170304.1251
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
