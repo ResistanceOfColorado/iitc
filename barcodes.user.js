@@ -1,11 +1,11 @@
 // ==UserScript==
-// @id             iitc-plugin-barcodes@BigRaptor
+// @id             iitc-plugin-barcodes@RoC
 // @name           IITC plugin: Replace barcode player names with friendly names on click
 // @category       Portal Info
 // @version        0.1.0.20170303
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
-// @updateURL      https://barcodes.user.js
-// @downloadURL    https://barcodes.user.js
+// @updateURL      https://github.com/ResistanceOfColorado/iitc/blob/master/barcodes.user.js
+// @downloadURL    https://github.com/ResistanceOfColorado/iitc/blob/master/barcodes.user.js
 // @description    Replace player names with more easily remembered names
 // @include        https://*.ingress.com/intel*
 // @include        http://*.ingress.com/intel*
@@ -47,7 +47,7 @@ window.plugin.barcodes.nameMap = {
     "lIlIIlIllIlIIll": "tvvsmom",
     "IlllIlIIllIlIlI": "ab5543",
     "IIIlIIIlllIIlII": "Heisentoad",
-    "IIIllIIIlIIlII": "coyahooo",
+    "IIIllIIIlIIlII":  "coyahooo",
     "lIllIIllIlIlIII": "tedly",
     "lIllIIIlIlIlIll": "GoingUp",
     "IIlIIIllllIIIll": "DocSarcophagus",
