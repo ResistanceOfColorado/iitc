@@ -49,7 +49,7 @@ window.plugin.barcodes.nameMap = {
     "IIIlIIIlllIIlII": "Heisentoad",
     "IIIllIIIlIIlII":  "coyahooo",
     "0IIIIIII0":       "trulydread",
-    "lIllIIllIlIlIII": "tedly",
+    "lIllIIllIlIlIII": "banned-tedly",
     "lIllIIIlIlIlIll": "GoingUp",
     "IIlIIIllllIIIll": "DocSarcophagus",
     "lIllIIIlIlllIII": "itbebeth",
