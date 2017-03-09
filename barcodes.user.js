@@ -57,7 +57,8 @@ window.plugin.barcodes.nameMap = {
     "IllIlIIIlIlIIlI": "mmhmbeer",
     "IIIllIlIllIIIlI": "queenfire",
     "IIIIlIIllIlIlII": "BriaT",
-    "IIlllIIIIlIlIll": "Gakby"
+    "IIlllIIIIlIlIll": "Gakby",
+    "llllIIlllIllIII": "Trihga"
 };
 window.plugin.barcodes.barPatt = new RegExp("^[Il]{15}$");
 
