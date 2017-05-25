@@ -2,7 +2,7 @@
 // @id             iitc-plugin-barcodes@RoC
 // @name           IITC plugin: Replace barcode player names with friendly names on click
 // @category       Portal Info
-// @version        0.1.0.20170411.0847
+// @version        0.1.0.20170524.2128
 // @namespace      https://github.com/jonatkins/ingress-intel-total-conversion
 // @updateURL      https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
 // @downloadURL    https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
@@ -61,7 +61,8 @@ window.plugin.barcodes.nameMap = {
     "llllIIlllIllIII": "Trihga",
     "IllllllIlIllIIl": "OzymandiasOne",
     "IIIIllIIlllIIll": "P3terPan",
-    "IIlIlIllIlIlIII": "shadyglen"
+    "IIlIlIllIlIlIII": "shadyglen",
+    "IlllIllIIlIIIl":  "atsina"
 };
 window.plugin.barcodes.barPatt = new RegExp("^[Il]{15}$");
 
