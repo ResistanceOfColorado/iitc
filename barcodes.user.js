@@ -11,6 +11,8 @@
 // @include        http://*.ingress.com/intel*
 // @match          https://*.ingress.com/intel*
 // @match          http://*.ingress.com/intel*
+// @match          https://intel.ingress.com/*
+// @match          http://intel.ingress.com/*
 // @include        https://*.ingress.com/mission/*
 // @include        http://*.ingress.com/mission/*
 // @match          https://*.ingress.com/mission/*
@@ -47,8 +49,8 @@ window.plugin.barcodes.nameMap = {
     "lIlIIlIllIlIIll": "tvvsmom",
     "IlllIlIIllIlIlI": "ab5543",
     "IIIlIIIlllIIlII": "Heisentoad",
-    "IIIllIIIlIIlII":  "coyahooo",
-    "0IIIIIII0":       "trulydread",
+    "IIIllIIIlIIlII" : "coyahooo",
+    "0IIIIIII0"      : "trulydread",
     "lIllIIllIlIlIII": "banned-tedly",
     "lIllIIIlIlIlIll": "GoingUp",
     "IIlIIIllllIIIll": "DocSarcophagus",
@@ -68,12 +70,13 @@ window.plugin.barcodes.nameMap = {
     "lIlIIlllIlIIlll": "K4L9B",
     "llIlIlIlllIIlIl": "Jonathan967",
     "IllIllIllIIllIl": "RacingBidule",
-    "IllIlIlIIl":      "NoMoreRes",
+    "IllIlIlIIl"     : "NoMoreRes",
     "lIIIllIIIllIIIl": "Sonate21",
     "IlllIIIIllIIIIl": "LafCam",
-    "IIllIIlllllIIIl": "Meenath"
+    "IIllIIlllllIIIl": "Meenath",
+    "IllllIIIllIIIII": "ElSancho88"
 };
-window.plugin.barcodes.barPatt = new RegExp("^[Il]{15}$");
+window.plugin.barcodes.barPatt = new RegExp("^[Il]{3,15}$");
 
 window.plugin.barcodes.replaceNames = function(data) {
   var barPatt = window.plugin.barcodes.barPatt;
