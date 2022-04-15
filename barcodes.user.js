@@ -7,16 +7,8 @@
 // @updateURL      https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
 // @downloadURL    https://github.com/ResistanceOfColorado/iitc/raw/master/barcodes.user.js
 // @description    Replace player names with more easily remembered names
-// @include        https://*.ingress.com/intel*
-// @include        http://*.ingress.com/intel*
-// @match          https://*.ingress.com/intel*
-// @match          http://*.ingress.com/intel*
-// @match          https://intel.ingress.com/*
-// @match          http://intel.ingress.com/*
-// @include        https://*.ingress.com/mission/*
-// @include        http://*.ingress.com/mission/*
-// @match          https://*.ingress.com/mission/*
-// @match          http://*.ingress.com/mission/*
+// @match          *://intel.ingress.com/*
+// @match          *://*.ingress.com/mission/*
 // @grant          none
 // ==/UserScript==
 
